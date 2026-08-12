@@ -201,7 +201,7 @@ for i,(source,target) in enumerate(indices+[(None,None)]):
         last_i = i
 ```
 
-SLAYYY now we've got both `indices` and `values`. Let's put it all together: 
+Now we've got both `indices` and `values`. Let's put it all together: 
 
 ```
         # generate the sparse matrix
